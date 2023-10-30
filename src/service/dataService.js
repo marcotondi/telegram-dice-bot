@@ -1,5 +1,5 @@
 "use strict";
-const config = require("./config");
+const config = require("./src/config");
 
 var AWS = require("aws-sdk"),
   documentClient = new AWS.DynamoDB.DocumentClient();
