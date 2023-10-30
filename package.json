@@ -1,0 +1,22 @@
+{
+  "name": "telegram-dice-bot",
+  "version": "1.0.0",
+  "description": "A simple bot to roll dice. So many dice.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "telgram",
+    "bot",
+    "telegraf"
+  ],
+  "author": "Marco Tondi",
+  "license": "GPL v3",
+  "repository": {
+    "url": ""
+  },
+  "dependencies": {
+    "telegraf": "^3.38.0"
+  }
+}
